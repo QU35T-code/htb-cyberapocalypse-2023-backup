@@ -1,0 +1,4 @@
+Forensics/Artifacts_of_Dangerous_Sightings/forensics_artifacts_of_dangerous_sightings.zip filter=lfs diff=lfs merge=lfs -text
+Forensics/Bashic_Ransomware/forensics_bashic_ransomware.zip filter=lfs diff=lfs merge=lfs -text
+ML/Reading_the_Stars/ml_reading_the_stars.zip filter=lfs diff=lfs merge=lfs -text
+Reversing/Analogue_Signal_Processing/rev_analogue_signal_processing_v2.zip filter=lfs diff=lfs merge=lfs -text
